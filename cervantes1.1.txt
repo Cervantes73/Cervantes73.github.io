@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>HTML IS SO EASY</title>
+</head>
+
+<body style = "background-color:skyblue;" >
+  <h1 style = "color: #800080; text-align:center; border: 5px solid black" > about me and my family
+  </h1>
+  <a href= "https://www.facebook.com/Anthony Cervantes">
+    <p style="text-align: center" > Social Media Account </p>
+      
+    </p>
+  </a>
+  
+
+    <p style = "text-align: center;"> <img src = "family.jpg" width = "100" height = "100">
+  
+  
+  <div style="background-color:khaki; padding: 2px; border: 5px solid black">
+    <p style="color:green;text-align:center;">
+         My family is small we are only 5 me, my 2 sisters and my mom and dad but close-knit, always ready with a helping hand and a warm hug.  We cherish our traditions, gathering for holidays filled with laughter and delicious food.  Though geographically scattered, our bonds remain strong, strengthened by frequent calls and visits.
+    </p>
+   
+    
+      <div style="background-color:#FF6347; padding: 2px; border:5px solid black">
+        <p style="color:Gold;text-align:center;">
+      I love to lose myself in the scenes of a good stories, escaping into fantastical worlds and captivating stories.  My artistic side shines through imagination, allowing me to express my emotions on canvas.  While not a natural athlete, I enjoy long walks in nature, appreciating the beauty of the world around me. My hobbies too are to watch anime like hunter x hunter SpongeBob and more. I know it's for kids but I love watching that it gives me strength to face this world.
+        <p style="text-align: center"><img src="hobbies.jpg" width = "100" height = "100">
+ </p>
+  
+
+        <div style="background-color:#C0C0C0; padding: 2px; border:5px solid black">
+          <p style="color:blue;text-align:center;">
+        "Be the change you wish to see in the world" inspires me to strive for a positive impact in my daily life.  I believe in the power of kindness and empathy, treating everyone with respect and understanding.  "The only way to do great work is to love what you do" reminds me to pursue passions that bring me joy and fulfillment.
+<p style="text-align: center"><img src="theory.jpg" width = "100" height = "100">
+ </p>
+  
+
+
+    <div style="background-color:#8B4513; padding: 2px; border:5px solid black">
+      <p style="color:orange;text-align:center;">
+    My dream is to build a company that not only thrives financially but also makes a positive contribution to society.  I envision a collaborative and supportive work environment where employees feel valued and empowered to reach their full potential.  Ultimately, I hope to create a legacy of innovation and positive impact, leaving the world a better place than I found it. When I achieve my goal I will help other people who need help.
+       <p style="text-align: center"><img src="job.jpg" width = "100" height = "100">
+ </p>
+  
+  
+</body>
+
+</html>
